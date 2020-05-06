@@ -1,11 +1,4 @@
 from random import randint
-# AND
-# NOT
-# OR
-# LSHIFT
-# RSHIFT
-# 44430 -> b
-
 
 target_key = "a"
 values = {}
