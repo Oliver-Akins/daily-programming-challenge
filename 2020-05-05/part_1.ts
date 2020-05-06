@@ -1,7 +1,0 @@
-/*
-AND
-NOT
-OR
-LSHIFT
-RSHIFT
-*/
